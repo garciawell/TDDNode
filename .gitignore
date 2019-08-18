@@ -1,6 +1,6 @@
 node_modules
 .env
-
+__tests__
 tmp/*
 !tmp/.gitkeep
 
